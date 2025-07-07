@@ -54,7 +54,7 @@ Clean, modular codebase for easy maintenance
 
 Supports hundreds of contacts with ease
 
-## 🗂️ File Structure
+🗂️ File Structure
 
 ```plaintext
 📁 addressbook/
