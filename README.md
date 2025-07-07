@@ -56,7 +56,6 @@ Supports hundreds of contacts with ease
 
 🗂️ File Structure
 
-```plaintext
 📁 addressbook/
 ├── main.c            // Program entry and menu interface
 ├── contact.c/.h      // Core contact management logic (CRUD)
